@@ -1,4 +1,6 @@
 # ChinaVis-Challenge-2021
+## ChinaVis 2021挑战赛
+https://chinavis.org/2021/challenge.html
 ## 简介
 系统提供了对2013年到2018年空气污染数据的多种可视化方式，用户可从时间、空间、时空结合等角度对历史污染数据进行分析；同时对不同城市年污染物数据进行聚类降维，显示在地图上，可分析不同地区污染物变化模式，可对污染物的治理起到辅助分析作用；并利用模型对特定城市每小时的污染状况进行预测。
 
@@ -9,7 +11,8 @@ https://www.bilibili.com/video/BV18v411p7C3/?spm_id_from=333.999.0.0&vd_source=1
 ## 效果图：
 [![pS1vXsP.jpg](https://s1.ax1x.com/2023/01/17/pS1vXsP.jpg)](https://imgse.com/i/pS1vXsP)
 
-注：这里只提供了可视化界面的相关代码，为了方便下载data中数据的存放在网盘中，链接：
+注：这里只提供了可视化界面的相关代码，为了方便下载data中数据的存放在网盘中，链接：https://pan.baidu.com/s/1GZCnlJN9_00HXdloY83Z1Q?pwd=v6ns 
+提取码：v6ns
 
 data中的数据是基于ChinaVis2021数据可视化竞赛官方提供的小时数据集：http://naq.cicidata.top:10443/chinavis/opendata
 
